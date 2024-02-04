@@ -2,4 +2,5 @@
 
 <p align="center">
     <img src="/web-side/landing-page.png" alt="Page Layout" width="400px">
+    <h2> Preview PetLife</h2>
 </p>
