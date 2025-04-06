@@ -1,0 +1,4 @@
+exclude:
+  - styles
+  - scripts
+  - images
