@@ -3,7 +3,7 @@
 <h2 align="center"> Preview PetLife</h2>
 
 <p align="center">
-    <img src="/web-side/landing-page.png" alt="Page Layout" width="400px">
+    <img src="/images/landing-page.png" alt="Page Layout" width="400px">
 </p>
 
 <h2>📌 About the Project</h2>
